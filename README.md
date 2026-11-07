@@ -20,8 +20,3 @@ This repository contains practical machine learning notebooks and datasets focus
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/dyyland23-glitch/k-means.git](https://github.com/dyyland23-glitch/k-means.git)
